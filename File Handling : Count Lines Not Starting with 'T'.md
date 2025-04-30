@@ -11,6 +11,7 @@ Alphabets and numbers are allowed in the password.
 Step1: open the file in read mode 
 
 Step2: iterate the words in loop
+
 Step3: increase the count to +1 if the lines don't start with ‘T’. And print count
 ## PROGRAM:
 ```
